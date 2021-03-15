@@ -125,7 +125,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 30px;
+    margin-top: 20px;
+    font-size: 10px;
 }
 .sblock__weather {
     display: flex;
@@ -154,7 +155,7 @@ body {
 
 #month,
 #day {
-    font-size: var(--fsm);
+    font-size: 30px;
     font-weight: bold;
     color: var(--fg);
 }
